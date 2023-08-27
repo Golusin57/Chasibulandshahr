@@ -1,0 +1,125 @@
+
+.navbar{
+		
+			border: white solid 1px;
+			border-radius: 5px;
+			box-shadow: gray -0px 12px 6px;
+			justify-content: space-around;
+			overflow: auto;
+		}
+		.lst{
+			float: right;
+
+			font-size: 1.5rem;
+			display: flex;
+			margin-right: 20px;
+			margin-top: -70px ;
+			
+
+		}
+		.lst li{
+			 padding:9px;
+          
+			 font-family: 'Poppins', sans-serif;
+			 list-style: none;
+		}
+		.lafty{
+			 margin-top: 2px 0px;
+			 margin-left: 30px;
+			 font-size: 1.7rem;
+			 cursor: no-drop;
+			 
+			 font-family: 'Poppins', sans-serif;
+		}
+		.lst li a{
+			 text-decoration: none;
+			 padding: 12px ;
+		}
+		.lst li a:hover{
+         text-decoration: underline;
+		}
+ 		.singh{
+			color: red;
+		}
+		.form{
+			background-image: url("file:///C:/Users/pc/Desktop/practice.html/photo.jpg");
+		   background-size: cover;
+			 width: 300px;
+			 float: right;
+			 height: 400px;
+			
+			 box-shadow:  black 2px 2px 10px;
+			 margin-top: 30px;
+			 margin-left: 40px;
+			 border-radius: 19px;
+
+		}
+		.form:hover{
+			  box-shadow:  blue 1px 1px 10px;
+
+		}
+		.details{
+			margin-left:25%;
+			text-decoration: underline;
+
+		}
+		.button{
+			padding: 10px;
+			 margin-left: 50px;
+			 margin-top: 10px;
+		}
+		.intro{
+			width: 50vh;
+			height: 80vh;
+			box-shadow: gray 2px 2px 9px;
+			margin-top: 90vh;
+			
+			border-radius: 10px;
+
+
+		}
+		#alert-text{
+			height: 1px;
+			margin-top: -10px;
+			 color: red;
+			 margin-left: 30%;
+			 font-size:0.90rem;
+			 
+		}
+		#text-res{
+			 color: red;
+			 margin-left: 10%;
+			 font-size: .90rem;
+		}
+		#text{
+      border:white solid 1px;
+      box-shadow: gray 0px 0px 1px;
+		}
+		#video{
+			 margin-top: 20px;
+
+		}
+		.password-char{
+			margin-top: -15px;
+			margin-left: 70px;
+		}
+		.try{
+			 width: 2000px;
+
+		}
+		.footer{
+			
+			 border: black solid 1px;
+		}
+		.footer footer{
+			margin-left: 500px;
+		}
+		.footer footer a{
+			 text-decoration: none;
+			 color: black;
+
+		}
+		.footer footer a:hover{
+			 text-decoration: underline;
+		}
+		
